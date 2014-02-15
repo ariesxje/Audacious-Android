@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Audacious</string>
+    <string name="action_settings">Settings</string>
+	<string name="url">http://audacious.org.nz/</string>
+	<string name="localUrl">file:///android_asset/audacious.org.nz/index.html</string>
+	<string name="goBack">back</string>
+    <string name="goForward">forward</string>
+    <string name="stop">stop</string>
+    <string name="refresh">refresh</string>
+    <string name="openInBrowser">open in browser</string>
+</resources>

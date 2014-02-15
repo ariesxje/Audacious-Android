@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+		android:id="@+id/goBack"
+		android:icon="@drawable/ic_menu_back"
+		android:showAsAction="ifRoom"
+		android:title="@string/goBack"/>
+	<item
+		android:id="@+id/goForward"
+		android:icon="@drawable/ic_menu_forward"
+		android:showAsAction="ifRoom"
+		android:title="@string/goForward"/>
+	
+	<item
+		android:id="@+id/stop"
+		android:icon="@drawable/ic_menu_stop"
+		android:showAsAction="ifRoom"
+		android:title="@string/stop"/>
+	
+	<item
+		android:id="@+id/openInBrowser"
+		android:icon="@drawable/ic_menu_safari"
+		android:showAsAction="ifRoom"
+		android:title="@string/openInBrowser"/>
+
+</menu>
