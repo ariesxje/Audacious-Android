@@ -16,12 +16,12 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
+        android:configChanges="screenOrientation"
         android:hardwareAccelerated="true"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
         <activity
             android:name="com.Audacious.audacious.MainActivity"
-            android:label="@string/app_name"
-        	android:configChanges="orientation|screenSize" >
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
